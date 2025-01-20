@@ -3,6 +3,5 @@ pandas
 numpy
 seaborn
 pyttsx3
-transformers
-nltk
-spacy
+
+-e.
